@@ -1,2 +1,5 @@
-Hello develop
 
+<?php
+	echo "tin hoc that la don gian";
+
+?>
